@@ -1,5 +1,5 @@
 # 3D Reconstruction from Multiple Images
-
+![alt text](https://github.com/tathya7/3D-Reconstruction-using-Incremental-SfM/blob/main/image.png)
 ## Overview
 
 This Python script performs 3D reconstruction of a scene from a set of images using Structure from Motion (SfM) techniques.
