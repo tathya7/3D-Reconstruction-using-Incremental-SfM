@@ -1,7 +1,5 @@
 '''
-ENPM 673 - Building built in minutes
-
-Group 21
+Authors - 
 Tathya Bhatt, Keshav Sharma, Mohammed Munnawar, Kshitij Aggarwal
 '''
 
